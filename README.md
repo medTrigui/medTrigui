@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently finishing my Master's in cybersecurity at Illinois Tech.<br>🌱 I’m currently workig on Hack the Box machines and preparing for my OSCP exam.<br>⚡ Fun fact about me: I speak four languages!
+# Mohamed Trigui | Cybersecurity Engineering and Pentesting
+🔭 I’m currently finishing my Master's in cybersecurity at Illinois Tech.<br> I’m currently workig on Hack the Box machines and preparing for my OSCP exam.<br>⚡ Fun fact about me: I speak four languages!
 
 
 ## Socials:
