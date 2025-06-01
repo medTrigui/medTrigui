@@ -5,7 +5,9 @@ I’m Mohamed, a cyber enthusiast finishing my M.A.S. in Cybersecurity at Illino
 - Tuning an anomaly-detection system that cuts false alerts 30 % . 
 - Dockerizing an OSINT dashboard for quick IP risk scores.
  
-⚡ Fun fact about me: I speak four languages!
+⚡ Fun facts:
+- I'm a nature Lover. I love hiking and exploring new places
+- I speak four languages: English, Arabic, French, and Spanish (basic)
 
 
 ## Socials:
