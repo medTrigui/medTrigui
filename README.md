@@ -1,5 +1,6 @@
 # Mohamed Trigui | Cybersecurity Engineering and Pentesting
-I’m Mohamed, a cyber enthusiast finishing my M.A.S. in Cybersecurity at Illinois Tech. I'm currently working on replicating vulnerabilities on Linux and writing Lua scripts to patch them. I am prepping for my OSCP exam by rooting boxes on Hack the Box. Current focus:
+I’m Mohamed, a cyber enthusiast finishing my M.A.S. in Cybersecurity at Illinois Tech. I'm currently working on replicating vulnerabilities on Linux and writing Lua scripts to patch them. I am prepping for my OSCP exam by rooting boxes on Hack the Box.
+Current focus:
 - Polishing exploit write-ups and walkthroughs.
 - Working on an Nmap NSE project to replicate and patch a vulnerability in CrashFTP.
 - Tuning an anomaly-detection system that cuts false alerts 30 % . 
