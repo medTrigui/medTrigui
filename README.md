@@ -8,8 +8,7 @@ Current focus:
  
 ⚡ Fun facts:
 - I'm a nature Lover. I love hiking and exploring new places
-- I speak four languages: English, Arabic, French, and Spanish (basic)
-
+- I speak four languages: English, Arabic, French, and Spanish
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-trigui-) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mohamedtrigui7421) 
