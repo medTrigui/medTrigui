@@ -3,6 +3,7 @@ I’m Mohamed, a cyber enthusiast finishing my Master's in Cybersecurity at Illi
 Current focus:
 - PG Practice from Offsec - Windows and Linux boxes.
 - Full time internship at IAS working on Detection Engineering and incident response operations.
+- Creating my own version of [![GTFObins](https://gtfobins.org/)] after they made some terrible updates (imo).
 
 
 ## Socials:
