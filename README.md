@@ -2,7 +2,7 @@
 I’m Mohamed, a cyber enthusiast finishing my Master's in Cybersecurity at Illinois Tech and currently interning at Integral Ad Science (IAS) as a Security Engineering Intern focusing on Detection and Response. I am prepping for my OSCP exam and always working on new projects!
 Current focus:
 - PG Practice from Offsec - Windows and Linux boxes.
-- Full time internship at IAS working on Detection Engineering and incident response operations.
+- Full time internship at [IAS](https://integralads.com/) working on Detection Engineering and incident response operations.
 - Creating my own version of [GTFObins](https://gtfobins.org/) after they made some terrible updates (imo).
 
 
