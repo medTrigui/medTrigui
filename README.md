@@ -1,9 +1,8 @@
 # Mohamed Trigui | Computer Science and Cybersecurity
-I’m Mohamed, a cyber enthusiast finishing my Master's in Cybersecurity at Illinois Tech. I am prepping for my OSCP exam and always working on new projects!
+I’m Mohamed, a cyber enthusiast finishing my Master's in Cybersecurity at Illinois Tech and currently interning at Integral Ad Science (IAS) as a Security Engineering Intern focusing on Detection and Response. I am prepping for my OSCP exam and always working on new projects!
 Current focus:
-- Polishing exploit write-ups and walkthroughs.
-- Documenting Active Directory exploitation techniques
-- Working on a BPMN to MITRE Att&CK project 
+- PGP Practice - Windows and Linux boxes.
+- Full time internship at IAS working on Detection Engineering and incident response operations.
 
 
 ## Socials:
